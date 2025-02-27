@@ -33,15 +33,18 @@ The following colors have been used for the terminal output:
 
 ### Steps to Run
 1. Clone this repository:
+   
    ```sh
    git clone <repository-url>
    cd <repository-folder>
    ```
 2. Compile the Java file:
+   
    ```sh
    javac MyFirstProgram.java
    ```
 3. Run the program:
+   
    ```sh
    java MyFirstProgram
    ```
