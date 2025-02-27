@@ -65,4 +65,4 @@ Your Java version: 17.0.1
 [Wyatt Matthew](https://github.com/wyattmatt)
 
 ## License
-This project is open-source and available under the MIT License. See the [LICENSE](https://github.com/wyattmatt/Lab-1---Guess-The-Number/blob/main/LICENSE) file for details.
+This project is open-source and available under the MIT License. See the [LICENSE](https://github.com/wyattmatt/Lab-1-Guess-The-Number/blob/main/LICENSE) file for details.
